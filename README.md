@@ -53,8 +53,8 @@
 <a href="https://github.com/pvsvamsi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvsvamsi&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/pvsvamsi/SystemAlertWindow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pvsvamsi&repo=SystemAlertWindow &theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pvsvamsi&repo=SystemAlertWindow&theme=light" />
+https://github-readme-stats.vercel.app/api/pin/?username=pvsvamsi&repo=SystemAlertWindow&theme=light<a href="https://github.com/pvsvamsi/SystemAlertWindow">
 
 </a>
 <a href="https://github.com/pvsvamsi/Disable-Battery-Optimizations">
